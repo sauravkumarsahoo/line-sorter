@@ -13,11 +13,13 @@ chmod +x ./line-sorter.sh
 ## Usage
 
 Just add the file name/path as the first parameter as shown in the below example:
+
+#### Linux/MacOS
 ```sh
 ./line-sorter.sh .env
 ```
 
-Just add the file name/path as the first parameter as shown in the below example:
+#### Windows
 ```bat
 line-sorter.bat .env
 ```
